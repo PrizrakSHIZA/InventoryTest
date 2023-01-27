@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InventoryAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 122f3047e39646a4e8c84d07b62d5e46, type: 3}
+    - {fileID: 2800000, guid: 4002f77f2b5742a44bed5adc1bf84692, type: 3}
+    - {fileID: 2800000, guid: ca49373e25a6ad046a4cabdd7639a04a, type: 3}
+    - {fileID: 2800000, guid: cd02b0e09ea84954b9ffcdd36c16bab7, type: 3}
+    - {fileID: 2800000, guid: 6f9bd48de836c484c844bfa0777da3ae, type: 3}
+    - {fileID: 2800000, guid: 122e09c947d5f384abc159149afd4858, type: 3}
+    - {fileID: 2800000, guid: 77b9dd9088d66e740bdd1b368bae148b, type: 3}
+    - {fileID: 2800000, guid: ffe7fcbe4c3554348b39a0b5ddf567d8, type: 3}
+    - {fileID: 2800000, guid: 069fd1e4ad5439b45b17e4006d564801, type: 3}
+    - {fileID: 2800000, guid: 76547407a4f8f8544aaab791ccd36e8a, type: 3}
+    - {fileID: 2800000, guid: 389418c0d6db89a4096a9601d9bf952e, type: 3}
+    - {fileID: 2800000, guid: daa156c1637146145b86d43e901c81dd, type: 3}
+    - {fileID: 2800000, guid: c1b13d54b9380f04d8ffdbca8cdab136, type: 3}
+    - {fileID: 2800000, guid: 6cf39d5c9bc7eba43b2d5c45a7c6abb0, type: 3}
+    - {fileID: 2800000, guid: cb7c533261d6fa848b0221c1f010b35d, type: 3}
+    - {fileID: 2800000, guid: 9560ba24bb867a74bb21eb3063ac8627, type: 3}
+    - {fileID: 2800000, guid: f38503d0307983240a7dde946a983d0c, type: 3}
+    - {fileID: 2800000, guid: 4466986608cae5346bfc72a1d4077cfc, type: 3}
+    - {fileID: 2800000, guid: 956665b8b6e08e24fbf7edca79767c70, type: 3}
+    - {fileID: 2800000, guid: 7724f9dee283829499ed2f387eaff358, type: 3}
+    - {fileID: 2800000, guid: b81ca351a1ad55a44901e22b5952aa88, type: 3}
+    - {fileID: 2800000, guid: 6293945fe31c1564dac6347e1dc2ceb6, type: 3}
+    - {fileID: 2800000, guid: 5fddf0924258b3c45ba7e7144e940cf0, type: 3}
+    - {fileID: 2800000, guid: 368e7050ef3e7f346a0bb8262249229b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 368e7050ef3e7f346a0bb8262249229b, type: 3}
+  - {fileID: 21300000, guid: 77b9dd9088d66e740bdd1b368bae148b, type: 3}
+  - {fileID: 21300000, guid: 389418c0d6db89a4096a9601d9bf952e, type: 3}
+  - {fileID: 21300000, guid: f38503d0307983240a7dde946a983d0c, type: 3}
+  - {fileID: 21300000, guid: cd02b0e09ea84954b9ffcdd36c16bab7, type: 3}
+  - {fileID: 21300000, guid: b81ca351a1ad55a44901e22b5952aa88, type: 3}
+  - {fileID: 21300000, guid: daa156c1637146145b86d43e901c81dd, type: 3}
+  - {fileID: 21300000, guid: cb7c533261d6fa848b0221c1f010b35d, type: 3}
+  - {fileID: 21300000, guid: 5fddf0924258b3c45ba7e7144e940cf0, type: 3}
+  - {fileID: 21300000, guid: 9560ba24bb867a74bb21eb3063ac8627, type: 3}
+  - {fileID: 21300000, guid: c1b13d54b9380f04d8ffdbca8cdab136, type: 3}
+  - {fileID: 21300000, guid: 069fd1e4ad5439b45b17e4006d564801, type: 3}
+  - {fileID: 21300000, guid: 4466986608cae5346bfc72a1d4077cfc, type: 3}
+  - {fileID: 21300000, guid: 76547407a4f8f8544aaab791ccd36e8a, type: 3}
+  - {fileID: 21300000, guid: 122f3047e39646a4e8c84d07b62d5e46, type: 3}
+  - {fileID: 21300000, guid: 956665b8b6e08e24fbf7edca79767c70, type: 3}
+  - {fileID: 21300000, guid: 122e09c947d5f384abc159149afd4858, type: 3}
+  - {fileID: 21300000, guid: 6cf39d5c9bc7eba43b2d5c45a7c6abb0, type: 3}
+  - {fileID: 21300000, guid: 6f9bd48de836c484c844bfa0777da3ae, type: 3}
+  - {fileID: 21300000, guid: ca49373e25a6ad046a4cabdd7639a04a, type: 3}
+  - {fileID: 21300000, guid: ffe7fcbe4c3554348b39a0b5ddf567d8, type: 3}
+  - {fileID: 21300000, guid: 7724f9dee283829499ed2f387eaff358, type: 3}
+  - {fileID: 21300000, guid: 6293945fe31c1564dac6347e1dc2ceb6, type: 3}
+  - {fileID: 21300000, guid: 4002f77f2b5742a44bed5adc1bf84692, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Sword1
+  - BestWearBtn
+  - BtnBack
+  - slider
+  - background
+  - Katana
+  - character
+  - RandomIcon
+  - Armor
+  - SkinBtn
+  - DefenceIcon
+  - Bolt
+  - sliderHandle
+  - Book
+  - armorSlot
+  - slot
+  - backup
+  - EnergyIcon
+  - Backpack
+  - backDetail
+  - bodyarmorSlot
+  - weaponSlot
+  - armor2
+  - attackIcon
+  m_RenderDataMap: {}
+  m_Tag: InventoryAtlas
+  m_IsVariant: 0
